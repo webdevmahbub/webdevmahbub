@@ -11,7 +11,7 @@ Mahbub
 
 Skills:  REACT / JS / HTML / CSS / NEXTJS / BOOTSTRAP / TAILWINDCSS 
 
-- 🔭 I’m currently working on shopinshop.com.bd 
+- 🔭 I’m currently working as a Frontend Developer
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
